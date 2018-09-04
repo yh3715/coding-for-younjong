@@ -19,4 +19,4 @@ print(int("1"))
 print(int("1.5"))
 # 1) 1
 # print(int(1.5))
-# error
+# 2) error
